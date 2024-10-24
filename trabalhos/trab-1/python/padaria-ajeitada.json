@@ -1,0 +1,985 @@
+[
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Cafe",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Pao",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Pao",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Presunto",
+            "Pastel",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Refri",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Refri",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Pastel",
+            "Pao",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Pao",
+            "Refri",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Refri",
+            "Pao",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Refri",
+            "Queijo",
+            "Cafe",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Doce",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Refri",
+            "Cafe",
+            "Presunto",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Presunto",
+            "Refri",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Queijo",
+            "Pao",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Refri",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Pao",
+            "Cafe",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Queijo",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Presunto",
+            "Doce",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Presunto",
+            "Refri",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Pastel",
+            "Doce",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Cafe",
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Pao",
+            "Presunto",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Queijo",
+            "Doce",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Queijo",
+            "Pao",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Refri",
+            "Queijo",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Queijo",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Presunto",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Cafe",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Pao",
+            "Doce",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Cafe",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Refri",
+            "Pastel",
+            "Pao",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Refri",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Doce",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Doce",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Pao",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Pastel",
+            "Queijo",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Doce",
+            "Refri",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Cafe",
+            "Pastel",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Doce",
+            "Cafe",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Pao",
+            "Refri",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Refri",
+            "Queijo",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Queijo",
+            "Pastel",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Pao",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Refri",
+            "Queijo",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Cafe",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Presunto",
+            "Refri",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Doce",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Presunto",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Presunto",
+            "Doce",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Pastel",
+            "Refri",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Refri",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Presunto",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Cafe",
+            "Doce",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Presunto",
+            "Pastel",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Refri",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Presunto",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Presunto",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Presunto",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Pao",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Doce",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Cafe",
+            "Doce",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Refri",
+            "Doce",
+            "Presunto"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Queijo",
+            "Presunto",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Doce",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Refri",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Pao",
+            "Presunto",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Queijo",
+            "Doce",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Presunto",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Refri",
+            "Cafe",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Cafe",
+            "Queijo"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Doce",
+            "Refri",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Presunto",
+            "Cafe",
+            "Pao"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Refri",
+            "Pastel"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Cafe",
+            "Doce"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pao",
+            "Queijo",
+            "Presunto",
+            "Cafe"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Refri"
+        ]
+    },
+    {
+        "compra": 999,
+        "produtos": [
+            "Pastel",
+            "Refri"
+        ]
+    }
+]
