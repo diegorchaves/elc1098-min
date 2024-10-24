@@ -4,7 +4,7 @@ import json
 from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder 
 
-json_data = pd.read_json("./padaria-ajeitada.json")
+json_data = pd.read_json("./data/padaria-ajeitada.json")
 json_str = json_data.to_json(orient='records')
 # print(json_data)
 
