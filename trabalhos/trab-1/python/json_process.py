@@ -11,7 +11,10 @@ def process_product(product):
     product = unicodedata.normalize('NFKD', product).encode('ascii', 'ignore').decode('utf-8')
     # Extrair a primeira palavra
     first_word = product.split()[0]
-    return first_word
+    word = product
+    if first_word == 'Doce':
+        return 'Doce'
+    return word
 
 # Iterar sobre as linhas do DataFrame e processar os produtos
 for index, row in data.iterrows():

@@ -1,0 +1,35 @@
+1.Objetivo
+2.Metodologia
+    2.1 - Coleta e Pré-processamento
+    3.2 - Análise e geração de regras
+3.Resultados
+    3.1 - Regras geradas
+    3.2 -
+
+
+
+1. Objetivo
+
+    O presente trabalho tem como objetivo analisar dados de transações de uma padaria para identificar quais produtos tendem a ser comprados em 
+    conjunto. Os produtos analisados incluem variações de café, pão, presunto, queijo, pastel, doce e refrigerante, com foco em verificar 
+    associações de vendas entre eles.
+
+2. Metodologia
+
+    2.1 Coleta e Pré-processamento de Dados:
+        *Fonte dos Dados: os dados de compra foram extraídos de um arquivo JSON chamado 'padaria_trab.json', que contém informações sobre as transações
+          realizadas na padaria.
+        *Limpeza de Dados:
+            *Remoção de Caracteres Especiais: durante a análise inicial, foi observado que alguns campos continham caracteres indesejados
+
+            * Durante o pre-processamento dos dados, foi utilizado o site jsonlint para a validacao do arquivo JSON original da padaria. Durante a validacao, 
+            foi constatado que linha 737 havia uma virgula faltante na separacao dos itens da transacao tornando o arquivo JSON invalido. A virgula faltante 
+            foi entao colocada manualmente. Alem disso, o caractere "ã" estava aparecendo como "\u00e3", entao utilizou-se um simples editor de texto com funcao
+            de localizar e alterar para mudar todas as ocorrencias de "\u00e3" por "a". De maneira semelhante, o caractere "ç" aparecia como "\u00e7", o caractere
+            "ú" como "\u00fa" e o caractere "ê" como "\u00ea", todos foram corrigidos da mesma forma.
+
+
+
+-
+
+    
