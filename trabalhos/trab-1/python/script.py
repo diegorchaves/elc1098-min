@@ -3,7 +3,7 @@ import json
 from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder 
 
-json_data = pd.read_json("./data/padaria-marcas.json")
+json_data = pd.read_json("./data/padaria-doce.json")
 json_str = json_data.to_json(orient='records')
 print("JSON data:")
 print(json_data)
@@ -37,17 +37,17 @@ print(frequent_itemsets)
 rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=0.3)
 
 print("Regras gerais:")
-print(rules.sort_values(by='confidence', ascending=False))
+print(rules.sort_values(by='lift', ascending=False))
 
 # Filtrar regras 1 para 1
 rules_1_to_1 = rules[(rules['antecedents'].apply(lambda x: len(x) == 1)) & 
                      (rules['consequents'].apply(lambda x: len(x) == 1))]
 
 print("Regras 1 para 1:")
-print(rules_1_to_1.sort_values(by='confidence', ascending=False))
+print(rules_1_to_1.sort_values(by='lift', ascending=False))
 
 # Filtrar regras que têm 'doce' como consequente
-#rules_with_sweet = rules[rules['consequents'].apply(lambda x: 'Doce' in x)]
+rules_with_sweet = rules[rules['consequents'].apply(lambda x: 'Doce' in x)]
 
-#print("Regras com doce:")
-#print(rules_with_sweet)
+print("Regras com doce:")
+print(rules_with_sweet.sort_values(by='lift', ascending=False))
