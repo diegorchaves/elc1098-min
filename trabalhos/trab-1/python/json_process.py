@@ -10,10 +10,10 @@ def process_product(product):
     # Normalizar para corrigir acentuação
     product = unicodedata.normalize('NFKD', product).encode('ascii', 'ignore').decode('utf-8')
     # Extrair a primeira palavra
-    first_word = product.split()[0]
+    #first_word = product.split()[0]
     word = product
-    if first_word == 'Doce':
-        return 'Doce'
+    #if first_word == 'Doce':
+    #    return 'Doce'
     return word
 
 # Iterar sobre as linhas do DataFrame e processar os produtos
