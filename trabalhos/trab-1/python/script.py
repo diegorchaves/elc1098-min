@@ -29,22 +29,22 @@ df = pd.DataFrame(encoded_array, columns=encoder.columns_)
 #print(df)
 
 # Uso do algoritmo Apriori
-frequent_itemsets = apriori(df, min_support=0.05, use_colnames=True)
+frequent_itemsets = apriori(df, min_support=0.02, use_colnames=True)
 print("Frequent itemsets:")
 print(frequent_itemsets.sort_values(by='support', ascending=False))
 
 # Gerar regras de associação
 rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=0.4)
 
-#print("Regras gerais:")
-#print(rules.sort_values(by='confidence', ascending=False))
+print("Regras gerais:")
+print(rules.sort_values(by='confidence', ascending=False))
 
 # Filtrar regras 1 para 1
 rules_1_to_1 = rules[(rules['antecedents'].apply(lambda x: len(x) == 1)) & 
                      (rules['consequents'].apply(lambda x: len(x) == 1))]
 
-#print("Regras 1 para 1:")
-#print(rules_1_to_1.sort_values(by='lift', ascending=False))
+print("Regras 1 para 1:")
+print(rules_1_to_1.sort_values(by='lift', ascending=False))
 
 # Filtrar regras que têm 'doce' como consequente
 rules_with_sweet = rules[rules['consequents'].apply(lambda x: 'Doce' in x)]
